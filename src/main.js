@@ -1,12 +1,7 @@
-// Nathan Altice
-// Created: 5/13/18
-// Ported to Phaser 3: 5/9/20
-// Updated: 1/13/24
-// Dialogging
-// Visual novel "teletext-style" dialog example that reads from a JSON file
-// Based on a dialog system implemented by UCSC student Tina Peng
-
-// TO-DO: integrate the end-of-line fix from ourcade: https://blog.ourcade.co/posts/2020/phaser-3-typewriter-text-effect-bitmap/
+/* Hernandez Steven
+   2/28/2024
+   CMPM 120
+*/
 
 // BE STRIK
 "use strict"
